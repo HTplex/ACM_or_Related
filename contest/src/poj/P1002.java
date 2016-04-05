@@ -32,7 +32,6 @@ public class P1002 {
     in.close();
   }
 }
-
 class Call implements Comparable<Call> {
   String num;
   int dup;
@@ -46,10 +45,10 @@ class Call implements Comparable<Call> {
     int out;
     int i = (int) (c);
     if (i < 82) {
-      out = (int) ((i - 65) / 3) + 2;
+      out = (i - 65) / 3 + 2;
 
     } else {
-      out = (int) ((i - 66) / 3) + 2;
+      out = (i - 66) / 3 + 2;
     }
     return out;
   }

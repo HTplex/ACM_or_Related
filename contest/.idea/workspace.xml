@@ -1,7 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79dbfebf-4276-402e-ab3f-82aec1d8820e" name="Default" comment="" />
+    <list default="true" id="79dbfebf-4276-402e-ab3f-82aec1d8820e" name="Default" comment="normal changes, gonna make it standard, do not know how to deal with those junks though">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ACs/P1141_Brackets_Sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_02.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/neuq/AAA.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/poj/GUIbasicA06vivid.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/A2.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/A2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/BDQuickUnionImproving.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/BDQuickUnionImproving.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0028B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0028B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0028Bwa.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0028Bwa.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0071A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0071A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0264A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0264A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0271A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0271A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0271C.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0271C.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0271D.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0271D.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0283A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0283A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0283B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0283B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0283C.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0283C.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0283C2.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0283C2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0283E.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0283E.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0285A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0285A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0285B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0285B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0285C.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0285C.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0285C2.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0285C2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0300A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0300A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0475D.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0475D.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0489C.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0489C.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0498BU.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0498BU.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0500A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0500A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0500B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0500B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C0500Bwa.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C0500Bwa.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C271E.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C271E.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C2775B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C2775B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C303A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C303A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C303B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C303B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C303D.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C303D.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C520A.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C520A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/C520B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/C520B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/E0475B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/E0475B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/InputReader.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/InputReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/PetrC0500B.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/PetrC0500B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/TaskB.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/TaskB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/dic.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/dic.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/line.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/line.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/pillar.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/pillar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/point.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/point.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codeforces/pointt.class" afterPath="$PROJECT_DIR$/out/production/contest/codeforces/pointt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codejam/QA.class" afterPath="$PROJECT_DIR$/out/production/contest/codejam/QA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/codejam/QB.class" afterPath="$PROJECT_DIR$/out/production/contest/codejam/QB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/collections/LUdisrupt.class" afterPath="$PROJECT_DIR$/out/production/contest/collections/LUdisrupt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/E0474E$Treap.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/E0474E$Treap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/E0474E.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/E0474E.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/E2.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/E2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/Go.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/Go.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/Ski.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/Ski.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/Stup.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/Stup.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/Test.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/line.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/line.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/contest/pillar.class" afterPath="$PROJECT_DIR$/out/production/contest/contest/pillar.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E004tripalidrome.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E004tripalidrome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E005EvenlydivisibleA.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E005EvenlydivisibleA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E007prime.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E007prime.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E008thirteen1000.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E008thirteen1000.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E009triangle.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E009triangle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E011gridnope.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E011gridnope.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E013Lsum.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E013Lsum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E014LongestSQ.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E014LongestSQ.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E042TriWords.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E042TriWords.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/E067tri.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/E067tri.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/Lab.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/Lab.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/euler/U01.class" afterPath="$PROJECT_DIR$/out/production/contest/euler/U01.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/ArrayUtils$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/ArrayUtils$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/ArrayUtils.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/ArrayUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/BidirectionalGraph.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/BidirectionalGraph.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/BiggestNst.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/BiggestNst.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/ElementJointerImpl.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/ElementJointerImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Fibonacci.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Fibonacci.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/GoodJob$Runner.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/GoodJob$Runner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/GoodJob.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/GoodJob.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Graph$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Graph$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Graph$2.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Graph$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Graph$EdgeIterator.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Graph$EdgeIterator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Graph$GraphEdge.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Graph$GraphEdge.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Graph.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Graph.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/InputReader.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/InputReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntArray.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntArrayList.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntArrayList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$1$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$2$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$2.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntCollection$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntCollection.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntCollection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntComparator$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntComparator$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntComparator$2.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntComparator$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntComparator.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntList$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntList$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntList$SubList.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntList$SubList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntList.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntSortedArray.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntSortedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntSortedList$1.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntSortedList$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntSortedList.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntSortedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/IntegerUtils.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/IntegerUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Maplab.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Maplab.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/MiscUtils.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/MiscUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/OutTime.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/OutTime.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/OutputWriter.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/OutputWriter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Pair.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Pair.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Shape.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Shape.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/Task.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/Task.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/duplicator.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/duplicator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/fastInput$InputReader.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/fastInput$InputReader.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/fastInput.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/fastInput.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/longlong.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/longlong.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/lab/pillaaaarr.class" afterPath="$PROJECT_DIR$/out/production/contest/lab/pillaaaarr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/A.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/B.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/BB.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/BB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/Beauty2A.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/Beauty2A.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/BeautyA.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/BeautyA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/BeautyB.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/BeautyB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/BeautyC.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/BeautyC.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/C.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/C.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/D.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/D.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/E.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/E.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/E999Lab.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/E999Lab.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/F.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/F.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/py.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/py.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/microsoft/signal.class" afterPath="$PROJECT_DIR$/out/production/contest/microsoft/signal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/Call.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/Call.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/DNA.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/DNA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1001.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1001.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1002.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1002.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1003.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1003.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1004.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1004.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1005.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1005.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1007.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1007.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1012.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1012.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1088.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1088.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1423.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1423.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/poj/P1650.class" afterPath="$PROJECT_DIR$/out/production/contest/poj/P1650.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/templets/BigFeb.class" afterPath="$PROJECT_DIR$/out/production/contest/templets/BigFeb.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/contest/templets/FastMatrixMultiply.class" afterPath="$PROJECT_DIR$/out/production/contest/templets/FastMatrixMultiply.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/poj/P1002.java" afterPath="$PROJECT_DIR$/src/poj/P1002.java" />
+    </list>
     <ignored path="contest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,66 +170,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="G73513400.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab/G73513400.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AAA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/neuq/AAA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntegerGen.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab/IntegerGen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="P1012.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/poj/P1012.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E006Sumsquare.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/E006Sumsquare.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E008thirteen1000.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/euler/E008thirteen1000.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="E002EvenFibonacci.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/euler/E002EvenFibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,13 +200,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BigFeb.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinearSievePrime.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templets/LinearSievePrime.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigFeb.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/templets/BigFeb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12820514">
+            <state vertical-scroll-proportion="0.0">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1002.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/poj/P1002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+              <folding>
+                <element signature="method#main#0;class#P1002#0" expanded="false" />
+                <element signature="class#Call#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1141_Brackets_Sequence_02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1141_Brackets_Sequence_01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+              <folding>
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1091#1092#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="P1141_Brackets_Sequence.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ACs/P1141_Brackets_Sequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.064935066">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+              <folding>
+                <element signature="e#1058#1059#0" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,6 +281,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="HT" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -149,6 +306,11 @@
         <option value="$PROJECT_DIR$/src/neuq/AAA.java" />
         <option value="$PROJECT_DIR$/src/euler/E008thirteen1000.java" />
         <option value="$PROJECT_DIR$/src/templets/BigFeb.java" />
+        <option value="$PROJECT_DIR$/src/poj/P1002.java" />
+        <option value="$PROJECT_DIR$/src/poj/P1141.java" />
+        <option value="$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_01.java" />
+        <option value="$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_02.java" />
+        <option value="$PROJECT_DIR$/src/ACs/P1141_Brackets_Sequence.java" />
       </list>
     </option>
   </component>
@@ -156,14 +318,14 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -181,7 +343,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -217,8 +378,22 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templets" />
+              <option name="myItemId" value="contest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,29 +410,16 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="contest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neuq" />
+              <option name="myItemId" value="ACs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,7 +430,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Application.E014LongestSQ">
+  <component name="RunManager" selected="Application.P1141_Brackets_Sequence_02">
     <configuration default="false" name="IntegerGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -297,6 +459,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="euler.E014LongestSQ" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="contest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="P1141_Brackets_Sequence_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="poj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="poj.P1141_Brackets_Sequence_01" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="contest" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="P1141_Brackets_Sequence_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="poj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="poj.P1141_Brackets_Sequence_02" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -552,14 +754,18 @@
       <listeners />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.IntegerGen" />
       <item index="1" class="java.lang.String" itemvalue="Application.E014LongestSQ" />
+      <item index="2" class="java.lang.String" itemvalue="Application.P1141_Brackets_Sequence_01" />
+      <item index="3" class="java.lang.String" itemvalue="Application.P1141_Brackets_Sequence_02" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.E014LongestSQ" />
-        <item index="1" class="java.lang.String" itemvalue="Application.IntegerGen" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.P1141_Brackets_Sequence_02" />
+        <item index="1" class="java.lang.String" itemvalue="Application.P1141_Brackets_Sequence_01" />
+        <item index="2" class="java.lang.String" itemvalue="Application.E014LongestSQ" />
+        <item index="3" class="java.lang.String" itemvalue="Application.IntegerGen" />
       </list>
     </recent_temporary>
   </component>
@@ -578,31 +784,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11369863" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941263" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -616,6 +822,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="normal changes, gonna make it standard, do not know how to deal with those junks though" />
+    <option name="LAST_COMMIT_MESSAGE" value="normal changes, gonna make it standard, do not know how to deal with those junks though" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -625,42 +839,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab/GoodJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab/BiggestNst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/euler/E014LongestSQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/poj/P1004.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/poj/P1003.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/poj/P1012.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -717,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,7 +937,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,7 +1098,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,14 +1105,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/neuq/AAA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -990,6 +1157,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/templets/BigFeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/poj/P1002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="method#main#0;class#P1002#0" expanded="false" />
+            <element signature="class#Call#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/templets/FastMatrixMultiply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -998,12 +1186,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/templets/BigFeb.java">
+    <entry file="file://$PROJECT_DIR$/src/templets/LinearSievePrime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12820514">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/poj/P1141_Brackets_Sequence_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ACs/P1141_Brackets_Sequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.064935066">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
           </folding>
         </state>
       </provider>
