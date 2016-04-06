@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="79dbfebf-4276-402e-ab3f-82aec1d8820e" name="Default" comment="aaaahhh">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ACs/A.java" afterPath="$PROJECT_DIR$/src/ACs/A.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ACs/Al.java" afterPath="$PROJECT_DIR$/src/ACs/Al.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ACs/C.java" afterPath="$PROJECT_DIR$/src/ACs/C.java" />
     </list>
     <ignored path="contest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/src/ACs/A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <caret line="25" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,10 +60,10 @@
         <entry file="file://$PROJECT_DIR$/src/ACs/C.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="1.0452489">
-              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
               <folding>
-                <element signature="e#1832#1833#0" expanded="true" />
-                <element signature="e#1856#1857#0" expanded="true" />
+                <element signature="e#1999#2000#0" expanded="true" />
+                <element signature="e#2029#2030#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -746,7 +743,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459947319224</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="aaaahhh">
+      <created>1459953108695</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1459953108695</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1198,7 +1201,7 @@
     <entry file="file://$PROJECT_DIR$/src/ACs/A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <caret line="25" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1206,10 +1209,10 @@
     <entry file="file://$PROJECT_DIR$/src/ACs/C.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0452489">
-          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
           <folding>
-            <element signature="e#1832#1833#0" expanded="true" />
-            <element signature="e#1856#1857#0" expanded="true" />
+            <element signature="e#1999#2000#0" expanded="true" />
+            <element signature="e#2029#2030#0" expanded="true" />
           </folding>
         </state>
       </provider>
