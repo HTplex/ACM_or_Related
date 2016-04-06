@@ -4,6 +4,7 @@ package ACs;
  * Created by htplex on 4/2/16.
  */
 
+
 import java.util.Scanner;
 
 public class P1141_Brackets_Sequence {
